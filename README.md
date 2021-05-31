@@ -1,6 +1,10 @@
 
 
-https://user-images.githubusercontent.com/84999739/120231803-dfa66000-c25a-11eb-98de-9c4b8f0e16da.mp4
+https://user-images.githubusercontent.com/84999739/120232355-1630aa80-c25c-11eb-8b10-695d0bd38e0a.mov
+
+
+
+
 
 
 
@@ -12,5 +16,7 @@ PLC programming utilizing IEC 61131-3 standerd
 
 
 [Report of A2,Md Aman Khan.docx](https://github.com/amantampere2019/PLC-TwinCAT-HMI/files/6571821/Report.of.A2.Md.Aman.Khan.docx)
+
+
 
 
